@@ -1,12 +1,10 @@
 {
-    "--custom-logo-path": "https://raw.githubusercontent.com/AOT-Technologies/roadsaftey-utils/main/theme/RoadsafteyLogo.png",
     "--navbar-active-submenu-bg-color": "#e3a82b",
     "--navbar-active-submenu-font-color": "white",
     "--navbar-menu-hover-bg-color": "#002142",
     "--navbar-main-menu-active-bg-color": "#002142",
     "--navbar-main-menu-active-font-color": "white",
     "--navbar-bg-color": "#003366",
-    "--custom-title": "RoadSafetyBC Digital Forms",
     "--primary-btn-font-color": "white",
     "--primary-btn-bg-color": "#003366",
     "--primary-btn-hover-bg-color": "#002142",
